@@ -21,7 +21,7 @@ Software:
   
   https://devtalk.nvidia.com/default/topic/906018/-customkernel-the-grinch-21-3-4-for-jetson-tk1-developed/
   
-  PCL 1.7.2:
+  ROS indigo:
   
-  https://github.com/PointCloudLibrary/pcl/releases
+  http://wiki.ros.org/indigo/Installation/UbuntuARM
   
